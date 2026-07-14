@@ -1,0 +1,26 @@
+{
+  "configVersion": 1,
+
+  "server": {
+    "baseUrl": "https://email-giving-mixture-recording.trycloudflare.com",
+    "apiVersion": "v1"
+  },
+
+  "retry": {
+    "connectionRetryAttempts": 2,
+    "initialRetryIntervalMinutes": 10,
+    "retryIntervalIncrementMinutes": 5,
+    "maximumRetryIntervalMinutes": 60
+  },
+
+  "network": {
+    "connectionTimeoutSeconds": 30,
+    "readTimeoutSeconds": 30
+  },
+
+  "features": {
+    "allowRegistration": true,
+    "allowSync": true,
+    "maintenanceMode": false
+  }
+}
