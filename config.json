@@ -1,8 +1,8 @@
 {
-  "configVersion": 7,
+  "configVersion": 0,
 
   "server": {
-    "baseUrl": "https://exclusion-recommend-performed-stock.trycloudflare.com",
+    "baseUrl": "https://halifax-mentioned-inspections-example.trycloudflare.com",
     "apiVersion": "v1"
   },
 
