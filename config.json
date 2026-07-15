@@ -1,8 +1,8 @@
 {
-  "configVersion": 0,
+  "configVersion": 1,
 
   "server": {
-    "baseUrl": "https://halifax-mentioned-inspections-example.trycloudflare.com",
+    "baseUrl": "https://places-consistency-christina-asin.trycloudflare.com ",
     "apiVersion": "v1"
   },
 
