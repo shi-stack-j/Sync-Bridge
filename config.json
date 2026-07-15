@@ -1,8 +1,8 @@
 {
-  "configVersion":5,
+  "configVersion":6,
 
   "server": {
-    "baseUrl": "https://containers-firms-blend-aka.trycloudflare.com",
+    "baseUrl": "https://angels-counter-priorities-semester.trycloudflare.com",
     "apiVersion": "v1"
   },
 
