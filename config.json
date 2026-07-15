@@ -1,8 +1,8 @@
 {
-  "configVersion": 1,
+  "configVersion": 2,
 
   "server": {
-    "baseUrl": "https://places-consistency-christina-asin.trycloudflare.com ",
+    "baseUrl": "https://latest-extras-fitness-goto.trycloudflare.com",
     "apiVersion": "v1"
   },
 
