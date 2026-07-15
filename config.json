@@ -1,8 +1,8 @@
 {
-  "configVersion": 3,
+  "configVersion":4,
 
   "server": {
-    "baseUrl": "https://advocacy-creatures-chicago-bears.trycloudflare.com",
+    "baseUrl": "https://proposed-soil-complex-sam.trycloudflare.com",
     "apiVersion": "v1"
   },
 
