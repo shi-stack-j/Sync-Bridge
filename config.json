@@ -1,8 +1,8 @@
 {
-  "configVersion": 2,
+  "configVersion": 3,
 
   "server": {
-    "baseUrl": "https://latest-extras-fitness-goto.trycloudflare.com",
+    "baseUrl": "https://advocacy-creatures-chicago-bears.trycloudflare.com",
     "apiVersion": "v1"
   },
 
