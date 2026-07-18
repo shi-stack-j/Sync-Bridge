@@ -1,12 +1,12 @@
 {
-  "configVersion": 2,
+  "configVersion": 1,
 
   "app": {
     "name": "CypherLink",
     "packageName": "com.gangwar.cypherlink",
 
-    "latestVersionName": "1.1.0",
-    "latestVersionCode": 2,
+    "latestVersionName": "1.0.0",
+    "latestVersionCode": 1,
 
     "minimumSupportedVersionCode": 1,
 
