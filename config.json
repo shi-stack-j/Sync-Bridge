@@ -1,8 +1,8 @@
 {
-  "configVersion":6,
+  "configVersion":7,
 
   "server": {
-    "baseUrl": "https://angels-counter-priorities-semester.trycloudflare.com",
+    "baseUrl": "https://saint-potato-portrait-snowboard.trycloudflare.com",
     "apiVersion": "v1"
   },
 
