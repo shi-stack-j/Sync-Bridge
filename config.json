@@ -1,8 +1,8 @@
 {
-  "configVersion":7,
+  "configVersion":8,
 
   "server": {
-    "baseUrl": "https://saint-potato-portrait-snowboard.trycloudflare.com",
+    "baseUrl": "https://robinson-july-temporarily-prospects.trycloudflare.com",
     "apiVersion": "v1"
   },
 
